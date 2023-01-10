@@ -1,3 +1,4 @@
+
 body {
 	background: #808080;
 }
@@ -9,13 +10,21 @@ h1 {
 
 .series-h2 {
 	color: #adff2f;
+	font-family: 'Raleway', sans-serif;
 }
 
 .peliculas-h2 {
 	color: #ffffff;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.perfil-p {
+	font-size: 35px;
 }
 
 .redaccion-p {
 	column-count: 2;
-
+	column-gap: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
 }
+
