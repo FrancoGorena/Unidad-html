@@ -1,9 +1,9 @@
 body {
-	background: #8a2be2;
+	background: #808080;
 }
 
 h1 {
-	color: #f00;
+	color: #ffe4e1;
 
 }
 
@@ -13,4 +13,9 @@ h1 {
 
 .peliculas-h2 {
 	color: #ffffff;
+}
+
+.redaccion-p {
+	column-count: 2;
+
 }
